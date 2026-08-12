@@ -48,24 +48,4 @@ The laboratory consisted primarily of:
 
 III.	Basic acquisition workflow
 
-Identify device
-      ↓
-Verify ADB connection
-      ↓
-Identify application package
-      ↓
-Locate application databases
-      ↓
-ADB acquisition
-      ↓
-Hash evidence
-      ↓
-Create analysis copy
-      ↓
-SQLite examination
-      ↓
-Extract artifacts
-      ↓
-Timeline/correlation
-      ↓
-Report findings
+Identify device >> Verify ADB connection >> Identify application package >> Locate application databases >> ADB acquisition >> Hash evidence >> Create analysis copy >> SQLite examination >> Extract artifacts >> Timeline/correlation >> Report findings
