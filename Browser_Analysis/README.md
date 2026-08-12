@@ -4,7 +4,7 @@ This folder contains files, documentation, screenshots, and analysis related to 
 
 
 
-1. Browser Analysis
+Browser Analysis
 
 Objective: Examine browser history, search activity, and download records to reconstruct web activity.
 
